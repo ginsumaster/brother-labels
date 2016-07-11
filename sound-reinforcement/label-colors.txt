@@ -1,0 +1,38 @@
+label color scheme, suggestions
+
+
+---- mics
+wired    - black on white
+
+wireless - black on silver
+annc     - black on silver
+
+lapel     - black on yellow
+earset    - black on yellow
+presenter - black on yellow
+
+---- instruments
+guitar    - red on white
+e-guitar  - red on white
+
+bass - black on red
+
+keyboards - blue on white
+piano    - blue on white
+
+drums - black on green
+
+---- electronics
+cd, dvd, computer, ipod - white on blue
+sound, av recording - blue on white, or black on yellow, or black on silver
+
+
+---- speakers
+mains, subwoofers, monitors - black on yellow
+cry room - black on yellow
+
+
+---- main controls
+main speakers - black on yellow
+subwoofers    - black on yellow
+
