@@ -40,3 +40,7 @@ cry room - black on yellow
 main speakers - black on yellow
 subwoofers    - black on yellow
 
+
+---- device labels
+mics - white on black
+all others - personal discretion
